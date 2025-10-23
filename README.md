@@ -2,11 +2,13 @@
 
 Questo repository contiene una collezione di paper di ricerca suddivisi in tre categorie principali: Fake News Detection (FND), Continual Learning (CL) e una combinazione dei due (FND-CL).
 
+Per ogni sezione, è presente il rispettivo file word contentente ulteriori informazioni sui modelli, analisi e risultati per i vari paper.
+
 ---
 
-## 1 - PAPER FND-CL
+## 1 - PAPER FAKE NEWS DETECTION + CONTINUAL LEARNING
 
-Paper che esplorano l'intersezione tra Fake News Detection e Continual Learning.
+Paper che esplorano modelli di Fake News Detection dove vengono applicate tecniche di Continual Learning.
 
 1.  **Titolo:** Lifelong Evolution: Collaborative Learning between Large and Small Language Models for Continuous Emergent Fake News Detection
     * **Autori:** Ziyi Zhou, Xiaoming Zhang, Litian Zhang, Yibo Zhang, Zhenyu Guan, Chaozhuo Li, Philip S. Yu
@@ -50,9 +52,9 @@ Paper che esplorano l'intersezione tra Fake News Detection e Continual Learning.
 
 ---
 
-## 2 - PAPER FND
+## 2 - PAPER FAKE NEWS DETECTION
 
-Paper focalizzati sulla Fake News Detection.
+Paper focalizzati su modelli di Fake News Detection.
 
 0.  **Titolo:** An Experimental Comparison of the Most Popular Approaches to Fake News Detection
     * **Autori:** Pietro Dell’Oglio, Alessandro Bondielli, Francesco Marcellonia, Lucia C. Passaro
@@ -196,9 +198,9 @@ Paper focalizzati sulla Fake News Detection.
 
 ---
 
-## 3 - PAPER CL
+## 3 - PAPER CONTINUAL LEARNING
 
-Paper focalizzati sul Continual Learning.
+Paper che analizzano le principali tecniche di Continual Learning sui LLM.
 
 36. **Titolo:** Continual Learning for Large Language Models: A Survey
     * **Autori:** Tongtong Wu, Linhao Luo, Yuan-Fang Li, Shirui Pan, Thuy-Trang Vu, Gholamreza Haffari
