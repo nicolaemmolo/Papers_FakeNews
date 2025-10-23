@@ -56,12 +56,10 @@ Paper che esplorano modelli di Fake News Detection dove vengono applicate tecnic
 
 Paper focalizzati su modelli di Fake News Detection.
 
-0.  **Titolo:** An Experimental Comparison of the Most Popular Approaches to Fake News Detection
+(0).  **Titolo:** An Experimental Comparison of the Most Popular Approaches to Fake News Detection
     * **Autori:** Pietro Dell’Oglio, Alessandro Bondielli, Francesco Marcellonia, Lucia C. Passaro
     * **Anno Pubblicazione:** 2025
     * **Link:** [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186254](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186254)
-
-
 
 9.  **Titolo:** Automatic Detection of Fake News
     * **Autori:** Veronica Perez-Rosas, Bennett Kleinberg, Alexandra Lefevre, Rada Mihalcea
